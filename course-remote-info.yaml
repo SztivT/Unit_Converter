@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/225500/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Wed, 20 Jan 2021 13:27:22 UTC
+update_date: Fri, 29 Jan 2021 21:11:52 UTC
 stages:
 - id: 385
   step: 6090
@@ -33,6 +33,8 @@ topics:
   - title: Standard output
     theory_id: 4425
   1:
+  - title: Modulo division
+    theory_id: 10586
   - title: Units of information
     theory_id: 6865
   - title: Intro to computational thinking
@@ -55,8 +57,6 @@ topics:
     theory_id: 4672
   - title: Reading data with a readLine
     theory_id: 11224
-  - title: Modulo division
-    theory_id: 10586
   - title: Arithmetic operations
     theory_id: 4472
   - title: Increment and decrement

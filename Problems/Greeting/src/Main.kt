@@ -1,1 +1,1 @@
-fun greetNeo() = greetUser(...)
+fun greetNeo() = greetUser("Anderson", false, false, "Mr.", "Hello")

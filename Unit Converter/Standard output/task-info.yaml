@@ -4,7 +4,6 @@ files:
 - name: test/ConverterTest.java
   visible: false
   text: |
-    import converter.MainKt;
     import org.hyperskill.hstest.stage.StageTest;
     import org.hyperskill.hstest.testcase.CheckResult;
     import org.hyperskill.hstest.testcase.TestCase;
@@ -14,9 +13,6 @@ files:
 
 
     public class ConverterTest extends StageTest {
-        public ConverterTest() {
-            super(MainKt.class);
-        }
 
         @Override
         public List<TestCase> generate() {
